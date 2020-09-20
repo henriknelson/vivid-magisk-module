@@ -1,0 +1,7 @@
+#!/system/bin/sh
+# vivid: wrapper to set up and run vivid from terminal
+# nelshh @ xda-developers
+
+dir="$(cd "$(dirname "$0")"; pwd)";
+
+$dir/vivid.bin -m 8-bit "$@";
