@@ -6,6 +6,9 @@ This Magisk module installs the latest stable version of the vivid tool to the t
 
 ## Change Log
 
+### v1.1 - 2020-09-22
+* Updated vivid to v 0.6.0
+
 ### v1.0 - 2020-09-20
 * Initial release
 

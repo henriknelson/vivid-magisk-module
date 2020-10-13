@@ -123,8 +123,8 @@ REPLACE="
 
 print_modname() {
   ui_print "*********************************************"
-  ui_print "     vivid for Android                         "
-  ui_print "         - v 0.5.0                          "
+  ui_print "     vivid for Android                       "
+  ui_print "         - v 0.6.0                           "
   ui_print "         - built by nelshh @ xda-developers  "
   ui_print "*********************************************"
 }
